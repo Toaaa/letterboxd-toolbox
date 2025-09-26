@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Letterboxd Ratings Shield
+// @name         Ratings Shield
 // @namespace    https://github.com/Toaaa/
 // @version      1.3
 // @description  Hide ratings & popular reviews if a movie is not yet watched on Letterboxd.
