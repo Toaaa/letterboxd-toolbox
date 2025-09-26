@@ -15,7 +15,7 @@
 (function () {
     'use strict';
 
-    const DEBUG = true;
+    const DEBUG = false;
 
     const SELECTORS = {
         ratingsSection: '.ratings-histogram-chart',
