@@ -8,6 +8,9 @@
 // @match        *://letterboxd.com/*
 // @run-at       document-end
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Toaaa/letterboxd-toolbox/main/profile-average-rating/profile-average-rating.user.js
+// @downloadURL  https://raw.githubusercontent.com/Toaaa/letterboxd-toolbox/main/profile-average-rating/profile-average-rating.user.js
+// @supportURL  https://github.com/Toaaa/letterboxd-toolbox/issues
 // ==/UserScript==
 
 (function () {
